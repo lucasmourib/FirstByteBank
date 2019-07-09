@@ -5,3 +5,10 @@ C:\Users\Lucas\Documents\Repositório\AulasC#\ByteBank\01-ByteBank\obj\Debug\01-
 C:\Users\Lucas\Documents\Repositório\AulasC#\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.csproj.CoreCompileInputs.cache
 C:\Users\Lucas\Documents\Repositório\AulasC#\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.exe
 C:\Users\Lucas\Documents\Repositório\AulasC#\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.pdb
+C:\Users\Lucas\Documents\Repositorio\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.exe.config
+C:\Users\Lucas\Documents\Repositorio\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.exe
+C:\Users\Lucas\Documents\Repositorio\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.pdb
+C:\Users\Lucas\Documents\Repositorio\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\Repositorio\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\Repositorio\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.exe
+C:\Users\Lucas\Documents\Repositorio\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.pdb
